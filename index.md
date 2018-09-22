@@ -141,13 +141,8 @@ Software tools for mathematics, Koper, Slovenia
 {% endcomment %}
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
-  accessible to everybody.
-  The workshop organizers have checked that:
+  accessible to everybody.  If you have any accessibility concerns, please contact Nino Bašić at <a href='mailto:{{email}}'>{{email}}</a>
 </p>
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
 <p>
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
