@@ -11,7 +11,7 @@ humantime: "9:30 am - 6:00 pm"
 startdate: 2018-09-24
 enddate: 2018-09-25
 instructor: ["Nino Bašić", "Jan Berčič", "Alexander Konovalov", "Samuel Lelièvre", "Peter Palfrader", "Julian Rüth"]
-helper: ["Katja Berčič", "Andrés David Santamaría Galvis", "Matjaž Krnc", "Janoš Vidali"]
+helper: ["Katja Berčič", "Andrés David Santamaría Galvis", "Matjaž Krnc", "Janoš Vidali", "Russ Woodroofe"]
 email: ["sage-days-97-org@listes.math.cnrs.fr"]
 collaborative_notes: https://pad.carpentries.org/2018-09-24-koper
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
